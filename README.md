@@ -1,4 +1,4 @@
-# MDS Saves America 
+# Dash App
 ### Cards Against Humanity: Future of Democracy and American Elections
 
 <img src="img/election.png" width="700">
